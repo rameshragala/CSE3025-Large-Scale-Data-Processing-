@@ -1,0 +1,2 @@
+$hadoop jar /opt/Hadoop/hadoop-2.9.0/share/hadoop/tools/lib/hadoop-streaming-2.9.0.jar -file /home/rameshragala/mapreducePythonPr/mapper.py -mapper /home/rameshragala/mapreducePythonPr/mapper.py -file /home/rameshragala/mapreducePythonPr/reducer.py -reducer /home/rameshragala/mapreducePythonPr/reducer.py -input /rameshragala/wordcountCombiner.txt -output /rameshragala/out333
+
