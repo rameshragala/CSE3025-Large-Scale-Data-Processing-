@@ -1,0 +1,4 @@
+Item1	345	zone-1
+Item1		zone-2
+Item3	654	zone-2
+Item2	231	zone-3
