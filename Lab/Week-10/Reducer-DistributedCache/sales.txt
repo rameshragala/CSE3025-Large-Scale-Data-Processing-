@@ -1,0 +1,6 @@
+Item1	345	DEL
+Item1	205	KOL
+Item3	654	BLR
+Item3	453	KOL
+Item2	350	MUM
+Item1	122	DEL
